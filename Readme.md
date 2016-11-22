@@ -1,0 +1,1 @@
+#A working example of creating a gif in python using sklearn's Barneshut t-SNE on the Mnist dataset.
